@@ -1,7 +1,0 @@
-secretGenerator:
-- name: mysql
-  literals:
-  - password=P@ssw0rd.1
-resources:
-  - mysql.yaml
-  - wordpress.yaml
